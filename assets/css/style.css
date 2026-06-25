@@ -18,7 +18,7 @@
 }
 
 body {
-    font-family: 'Playfair Display', 'Cormorant Garamond', 'Georgia', serif;
+    font-family: 'Montserrat', sans-serif;
     color: var(--primary-black);
     background-color: var(--white);
     line-height: 1.6;
@@ -43,7 +43,8 @@ body {
     display: inline-block;
     padding: 14px 32px;
     text-decoration: none;
-    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
     letter-spacing: 1px;
     transition: all 0.3s ease;
     cursor: pointer;
@@ -87,7 +88,8 @@ section {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
     letter-spacing: 0.5px;
 }
 
